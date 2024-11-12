@@ -12,7 +12,7 @@ border:1px solid silver;
 .header {
 	width:100%;
 	height:150px;
-	background:lightgreen;
+	background:yelow;
 	text-align:center;
 	font-family:Verdana;
 	font-size:24px;
@@ -22,7 +22,7 @@ border:1px solid silver;
 .menu {
 	width:100%;
 	height:40;
-	background:pink;
+	background:purple;
 	text-align:center;
 	font-family:Verdana;
 	font-size:16px;
@@ -34,7 +34,7 @@ border:1px solid silver;
 	height:50vh;
 	float:left;
 	padding:10px;
-	background:white;
+	background:black;
 	text-align:center;
 	font-family:Verdana;
 	font-size:16px;
@@ -46,8 +46,8 @@ border:1px solid silver;
 	height:50vh;
 	float:left;
 	padding:10px;
-	background:white;
-	border-left:1px solid silver
+	background:orange;
+	border-left:1px solid gold
 
 }
 .footer {
