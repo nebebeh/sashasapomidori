@@ -1,5 +1,5 @@
 body {
-	background:lime;
+	background:brown;
 }
 h1 {
 	text-align:center;
@@ -12,7 +12,7 @@ border:1px solid silver;
 .header {
 	width:100%;
 	height:150px;
-	background:yellow;
+	background:crimson;
 	text-align:center;
 	font-family:Verdana;
 	font-size:24px;
@@ -22,7 +22,7 @@ border:1px solid silver;
 .menu {
 	width:100%;
 	height:40;
-	background:purple;
+	background:maroon;
 	text-align:center;
 	font-family:Verdana;
 	font-size:16px;
@@ -34,7 +34,7 @@ border:1px solid silver;
 	height:50vh;
 	float:left;
 	padding:10px;
-	background:black;
+	background:deeppink;
 	text-align:center;
 	font-family:Verdana;
 	font-size:16px;
@@ -46,7 +46,7 @@ border:1px solid silver;
 	height:50vh;
 	float:left;
 	padding:10px;
-	background:orange;
+	background:tomato;
 	border-left:1px solid silver;
 
 }
@@ -54,7 +54,7 @@ border:1px solid silver;
 	width:100%;
 	clear:left;
 	height:50px;
-	background:purple;
+	background:orangered;
 	text-align:center;
 	font-family:Verdana;
 	font-size:16px;
